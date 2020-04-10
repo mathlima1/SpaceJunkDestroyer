@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  position:center;
+  display: block;
+}
+h1{
+ font-family: 'Open Sans', sans-serif;
+  font-size: 80pt;
+}
+p{font-family: 'Open Sans', sans-serif;}
